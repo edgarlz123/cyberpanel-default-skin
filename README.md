@@ -1,2 +1,2 @@
 # cyberpanel-default-skin
-CyberPanel Deafult Skin
+CyberPanel Default Skin
